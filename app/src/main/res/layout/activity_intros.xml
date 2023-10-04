@@ -62,7 +62,7 @@
         app:layout_constraintStart_toStartOf="@id/textview"
         app:layout_constraintTop_toBottomOf="@id/textview"
         android:text="The power of creative UI design\nfor your app"
-        android:textColor="@color/black"
+        android:textColor="@color/white"
         android:textAlignment="center"
         android:textStyle="italic"
         android:layout_margin="32dp"
